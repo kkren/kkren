@@ -34,8 +34,8 @@ disableKinds = ["RSS"]
     url  = "https://t.me/kkren"
 
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/kkren001/"
+    name = "Mastodon"
+    url  = "https://infosec.exchange/@kkren/"
  
   [params.portrait]
     path     = "/avatar.webp"
